@@ -10,5 +10,8 @@ package fundamentos;
 public class PrimeiroPrograma {
     public static void main(String[] args) {
         System.out.println("Hello World!! De novo!! Agora na Coder!!");
+        System.out.println("");
+        Scanner entrada = new Scanner(System.in);
+        
     }
 }
